@@ -10,7 +10,7 @@
       "zhqingphp\\env\\":"./src"
     },
     "files":[
-      "./zhqingphp/function.php"
+      "./src/function.php"
     ]
   },
   "authors":[

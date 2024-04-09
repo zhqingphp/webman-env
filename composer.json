@@ -1,6 +1,6 @@
 {
-  "name":"zhqingphp/webman-model",
-  "description":"webman-model",
+  "name":"zhqingphp/webman-env",
+  "description":"webman-env",
   "license":"Apache-2.0",
   "require":{
     "php":">=8.0"
